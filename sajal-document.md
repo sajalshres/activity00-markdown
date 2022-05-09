@@ -1,6 +1,6 @@
-You must unlearn what you have learned.
+> You must unlearn what you have learned.
 
-> Quote from Yoda, *The Empire Strikes* Back
+Quote from Yoda, *The Empire Strikes* Back
 
 <hr>
 
@@ -25,12 +25,11 @@ in Markdown documents.
 This image:
 - Has a teal background.
 - Has red, yellow, and black points.
-- Has a “hidden” question mark.
-- Was obtained from blogspot (remember to click on the link to obtain the correct page).
+- Has a “hidden” **question mark**.
+- Was obtained from [blogspot](https://1.bp.blogspot.com/--jFU_n7nL_k/X8O8E2FikAI/AAAAAAAAxtQ/dS_z8I1MQ6khx6MHB6gNoDX-u8Ojw4uVACLcBGAsYHQ/s1920/5333.jpg)(remember to click on the link to obtain the correct page).
 
 ### Do This For A Section Heading
 
 #### Do Not Do This For A Section Heading
 
 Verify that this is on a new line.
-
