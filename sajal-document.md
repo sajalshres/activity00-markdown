@@ -2,7 +2,9 @@
 
 Quote from Yoda, *The Empire Strikes* Back
 
-<hr>
+<p align="center">
+  _________________________________________
+</p>
 
 # Activity 00 - Markdown
 
